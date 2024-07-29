@@ -1,0 +1,20 @@
+{
+  "name": "Scrim-s03eq2nip3",
+  "description": "https://v2.scrimba.com/building-a-chat-app-with-react-and-chatkit-c01p/~0g/",
+  "scripts": {
+    "watch": "webpack -w",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "@pusher/chatkit": "0.7.15",
+    "webpack": "^2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0",
+    "babel-loader": "^7.0",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*"
+  }
+}
